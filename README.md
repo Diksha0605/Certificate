@@ -13,6 +13,6 @@ Topics Covered:
 - Time & Space Complexity
 
 Certificate:
-[View Certificate](./Alpha_DSA_Java_Certificate.pdf)
+[View Certificate](./ApnaCollege_Certificate.pdf)
 
 More certifications will be added as I continue learning software engineering, AI/ML, and backend development.
